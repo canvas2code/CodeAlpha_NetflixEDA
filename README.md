@@ -9,7 +9,7 @@ Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netf
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
@@ -18,7 +18,7 @@ Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netf
 
 ---
 
-## 📌 Questions Explored
+## Questions Explored
 1. What type of content (Movie or TV Show) is more common on Netflix?
 2. Which country has produced the most Netflix content?
 3. What are the top 5 genres on Netflix?
@@ -28,7 +28,7 @@ Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netf
 
 ---
 
-## 📈 Insights
+## Insights
 - Netflix has more Movies than TV Shows.
 - USA dominates content production.
 - Top genres include Drama and International Movies.
@@ -37,6 +37,6 @@ Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netf
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 - [LinkedIn](https://shorturl.at/wiriO)  
 - [GitHub](https://github.com/canvas2code)
